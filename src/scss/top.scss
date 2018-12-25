@@ -4,3 +4,12 @@ h1{
   font-size:44px;
   color:#777;
 }
+
+.list{
+  display:flex;
+  list-style-type: none;
+  li{
+    font-weight:bold;
+    margin: 0 0 0 10px;    
+  }
+}
