@@ -4,14 +4,17 @@
 
 # npm script
 ```npm run dev ```
-開発モード parcelが起動してwebサーバーが立ち上がる
+開発モード  
+parcelが起動してwebサーバーが立ち上がる
 
 ```npm run build ```
-productionモード distディレクトリを一度cleanにしてからソースをビルドする。  
+
+productionモード  
+distディレクトリを一度cleanにしてからソースをビルドする。  
 ソースマップを作らない。
 
 ```npm run clean ```
-distディレクトリをcleanにする
+distディレクトリをcleanにする
 
 # 参考記事
 https://parceljs.org/  
